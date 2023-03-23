@@ -1,0 +1,5 @@
+C:\Users\user\OneDrive\Desktop\DVD-Rental-Store-Database-master\obj\Debug\net5.0\Database.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\DVD-Rental-Store-Database-master\obj\Debug\net5.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\DVD-Rental-Store-Database-master\obj\Debug\net5.0\Database.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\DVD-Rental-Store-Database-master\obj\Debug\net5.0\Database.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\DVD-Rental-Store-Database-master\obj\Debug\net5.0\Database.csproj.CoreCompileInputs.cache
